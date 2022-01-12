@@ -4,8 +4,8 @@ import './styles.css'
 
 function MovieScore() {
 
-    const score = 3.5
-    const count = 13
+    const score = Math.random()*5;
+    const count = (Math.random()*100).toFixed(0);
 
     return (
         <div className="dsmovie-score-container">
