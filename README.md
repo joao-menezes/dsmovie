@@ -1,6 +1,6 @@
 # DSmovie
 # 
-#### I join Devsuperior to create an app to rate movies
+#### I join Devsuperior to create an app fullstatck to rate movies
 #### This is my first big project so I want someone to look at me
 #### and appreciate and maybe grace me with my first internship opportunity
 
