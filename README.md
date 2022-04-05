@@ -1,6 +1,6 @@
 # DSmovie
 # 
-#### I join Devsuperior in 3° edition to create an app fullstack to rate movies
+#### I join Devsuperior in 6° edition to create an app fullstack to rate movies
 
 # Created using 
 ### BackEnd
