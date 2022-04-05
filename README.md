@@ -6,7 +6,8 @@
 # Created using 
 ### BackEnd
 ```
-Java(SpringBoot)
+Java
+SpringBoot
 PostgreSql
 ```
 ### FrontEnd
