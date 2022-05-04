@@ -8,6 +8,7 @@
 Java
 SpringBoot
 PostgreSql
+Heroku
 ```
 ### FrontEnd
 ```
@@ -15,6 +16,7 @@ ReactJs
 Typescript
 HTML
 CSS
+Bootstrap
 ```
 ### Implementation
 ##### BackEnd
